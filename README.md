@@ -88,6 +88,6 @@ Users should be able to:
 - Accessibility in mind
 
 ## Author
-Github : https://github.com/explorer92
-Twitter : https://twitter.com/enochpaddy80
-frontend mentor : https://www.frontendmentor.io/profile/explorer92
+- Github : https://github.com/explorer92
+- Twitter : https://twitter.com/enochpaddy80
+- frontend mentor : https://www.frontendmentor.io/profile/explorer92
