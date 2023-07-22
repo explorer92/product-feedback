@@ -73,8 +73,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/responsive-product-feedback-app-w-react-local-storage-contextapi-HyOodiaX5)
-- Live Site URL: (https://lm-product-feedback-app.netlify.app/)
+- Github URL: https://github.com/explorer92/product-feedback
+- Live Site URL: https://product-feedback-hazel.vercel.app/
 
 ## My process
 
@@ -88,7 +88,6 @@ Users should be able to:
 - Accessibility in mind
 
 ## Author
-
-- Website - [Leon Michalak](https://www.leonmichalak.dev)
-- Frontend Mentor - [@NinjaInShade](https://www.frontendmentor.io/profile/NinjaInShade)
-- Instagram - [@TheFrontendGuy](https://www.instagram.com/thefrontendguy/)
+Github : https://github.com/explorer92
+Twitter : https://twitter.com/enochpaddy80
+frontend mentor : https://www.frontendmentor.io/profile/explorer92
