@@ -12,6 +12,7 @@ This is a solution to the [Product feedback app challenge on Frontend Mentor](ht
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -91,3 +92,5 @@ Users should be able to:
 - Github : https://github.com/explorer92
 - Twitter : https://twitter.com/enochpaddy80
 - frontend mentor : https://www.frontendmentor.io/profile/explorer92
+
+## Acknowledgments
