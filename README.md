@@ -94,3 +94,6 @@ Users should be able to:
 - frontend mentor : https://www.frontendmentor.io/profile/explorer92
 
 ## Acknowledgments
+This project includes code adapted from [NinjaInShade][(https://github.com/NinjaInShade/product-feedback-app.git)] ,
+developed by [Leon Michalak]([(https://github.com/NinjaInShade)https://github.com/NinjaInShade)]. 
+Majority of the code were cloned and modified from the original project
